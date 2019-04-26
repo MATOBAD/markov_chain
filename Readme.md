@@ -8,10 +8,10 @@ mecab
 ## 使い方
 基本
 ```
-python markov_chain_ver2.py -t [text_file] -n [n_order]
+python markov_chain.py -t [text_file] -n [n_order]
 ```
 
 最初に文字を指定する場合
 ```
-python markov_chain_ver2.py -t [text_file] -n [n_order] -w [word]
+python markov_chain.py -t [text_file] -n [n_order] -w [word]
 ```
